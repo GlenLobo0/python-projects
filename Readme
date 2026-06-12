@@ -1,0 +1,31 @@
+# Python Projects 🐍
+
+This repository contains Python projects that I built while learning Python programming. These projects helped me practice problem-solving and understand important programming concepts.
+
+## Projects
+
+### 🎲 Blackjack Game
+
+A command-line Blackjack game built using Python.
+
+### 🔨 Blind Auction
+
+A secret auction program where users place bids and the highest bidder wins.
+
+### 🔐 Caesar Cipher
+
+A program to encrypt and decrypt messages using the Caesar Cipher technique.
+
+### 🔢 Guess The Number
+
+A game where the user guesses a randomly generated number with different difficulty levels.
+
+## Skills Practiced
+
+* Functions
+* Loops
+* Conditional Statements
+* Dictionaries and Lists
+* Python's `random` module
+
+More projects will be added as I continue learning Python.
